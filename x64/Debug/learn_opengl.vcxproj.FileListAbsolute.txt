@@ -1,1 +1,2 @@
 C:\C++\learn_opengl\learn_opengl\x64\Debug\learn_opengl.exe
+C:\C++\learn_opengl\OpenGL-Base\x64\Debug\learn_opengl.exe

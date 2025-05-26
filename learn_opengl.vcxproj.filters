@@ -32,9 +32,19 @@
     <ClInclude Include="Camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="shader.vs" />
-    <None Include="shader.fs" />
+    <None Include="shaders\shader.vs" />
+    <None Include="shaders\shader.fs" />
+    <None Include="shaders\cube_shader.fs" />
+    <None Include="shaders\cube_shader.vs" />
+    <None Include="shaders\skybox.vs" />
+    <None Include="shaders\skybox.fs" />
   </ItemGroup>
 </Project>
